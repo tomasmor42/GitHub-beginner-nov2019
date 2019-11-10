@@ -6,14 +6,14 @@ If you're going to contribute in an open source project in GitHub most likely yo
 
 
 <p>
-<img src="../images/fork.png" align="left" height="30%" width="30%" />
+<img src="../images/Fork.png" align="left" height="30%" width="30%" />
 </p>
 
 
 Click on `Fork` button and create a fork of original repo in your own account.
 
 <p>
-<img src="../images/forked.png" align="left" height="30%" width="30%" />
+<img src="../images/Forked.png" align="left" height="30%" width="30%" />
 </p>
 
 In your github account you'll see it as a fork from original repo.
