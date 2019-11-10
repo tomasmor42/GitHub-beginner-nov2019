@@ -30,6 +30,9 @@ Now we want to create a local copy of this repo.
 <img src="../images/clone_or_download.png" align="left" height="100" width="200" />
 </p>
 Copy the repo address with the button on a screenshot.
+
+
+
 3. Go to your workspace folder in a terminal (shell) and clone this repo with command:
 `git clone git@github.com:{your_github_name}/pyladies-git-workshop.git`
 You should see
