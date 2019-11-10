@@ -3,6 +3,7 @@
 Feature branches are important for a git flow: they help to make history cleaner and commits safer.
 
 1. In terminal go to the folder with a project. Update repository with `git pull`.
+If there is any conflicts with versions, you'll have to resolve a merge conflicts manually. 
 This command will take all updates from the remote repo. It's important to do it, to be up to date.
 2. Now our master branch is up to date. We can create a new local branch with name `add-text-file`:
 
@@ -83,4 +84,4 @@ Here `origin` means the link to our repository.
 
  9. Create a Pull Request. In the web interface you can see difference between original file and updated, also you can see the list of updated files.
 
- 10. (Optional) You can add someone as a collaborator for your project. At the repository page go to Settings -> Collaborators -> add someone you want to have as a collaborator for your project. After that you will be able to add this user as a reviewer for your Pull request. 
+ 10. (Optional) You can add someone as a collaborator for your project. At the repository page go to Settings -> Collaborators -> add someone you want to have as a collaborator for your project. After that you will be able to add this user as a reviewer for your Pull request.
