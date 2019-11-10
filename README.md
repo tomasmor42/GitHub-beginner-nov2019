@@ -6,7 +6,6 @@
 ## Project description
 In current workshop we will learn:
 * how to use a git-flow (using CLI) and github-flow.
-* how to work with python virtual enviroment.
 
 
 ## Setup:
