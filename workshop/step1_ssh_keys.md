@@ -1,8 +1,4 @@
-# Plan of a workshop
-
-## Git & GitHub
-
-## SSH keys.
+## Step 1: SSH keys.
 Not required, but with SSH keys make your pushes easier.
 
 SSH = "secure shell", this protocol allows you to securely send your commits without explicit entering the password.
